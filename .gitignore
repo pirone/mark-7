@@ -1,0 +1,6 @@
+
+.DS_Store
+log/*.html
+log/*.log
+log/*.json
+log/screenshots
